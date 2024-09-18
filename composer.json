@@ -1,5 +1,5 @@
 {
-    "name": "jeparakab/ssoTest",
+    "name": "jeparakab/sso-test",
     "description": "A custom PHP package for SSO integration",
     "type": "library",
     "autoload": {
