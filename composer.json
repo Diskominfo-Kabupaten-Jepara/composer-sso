@@ -1,10 +1,10 @@
 {
-    "name": "jeparakab/sso",
+    "name": "jeparakab/ssoTest",
     "description": "A custom PHP package for SSO integration",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "JeparaKab\\Sso\\": "src/"
+            "JeparaKab\\SsoTest\\": "src/"
         }
     },
     "require": {

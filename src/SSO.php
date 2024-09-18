@@ -1,6 +1,6 @@
 <?php
 
-namespace JeparaKab\Sso;
+namespace JeparaKab\SsoTest;
 
 use GuzzleHttp\Client;
 
