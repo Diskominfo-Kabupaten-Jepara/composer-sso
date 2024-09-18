@@ -1,0 +1,13 @@
+{
+    "name": "jeparakab/sso",
+    "description": "A custom PHP package for SSO integration",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "JeparaKab\\Sso\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
